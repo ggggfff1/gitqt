@@ -1,0 +1,15 @@
+QMAKE_CXX.INCDIRS = \
+    d:\\vs2010\\VC\\INCLUDE \
+    d:\\vs2010\\VC\\ATLMFC\\INCLUDE \
+    "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.0A\\include"
+QMAKE_CXX.LIBDIRS = \
+    d:\\vs2010\\VC\\LIB\\amd64 \
+    d:\\vs2010\\VC\\ATLMFC\\LIB\\amd64 \
+    "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.0A\\lib\\x64"
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1600
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 160030319
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
